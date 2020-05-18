@@ -1,0 +1,3 @@
+<resources>
+    <string name="error_getting_joke">There was an error getting the joke. Please try again</string>
+</resources>
